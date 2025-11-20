@@ -1242,7 +1242,6 @@ export const providers: ProvidersMap = {
     api: 'https://apis.iflow.cn/v1/',
     doc: 'https://iflow.cn/',
     models: {
-      'qwen3-coder': models['qwen3-coder-480b-a35b-instruct'],
       'qwen3-coder-plus': models['qwen3-coder-plus'],
       'kimi-k2': models['kimi-k2'],
       'kimi-k2-0905': models['kimi-k2-0905'],
